@@ -58,11 +58,11 @@ export default function LandingPage() {
       ]}
       avatarText="Trusted by 10k+ global travelers"
       marqueeItems={[
-        { type: "image", src: "http://img.b2bpic.net/free-photo/panoramic-sauna-view-organic-wooden-columns-resort-style-wellness_169016-68883.jpg", alt: "Panoramic sauna view" },
-        { type: "image", src: "http://img.b2bpic.net/free-photo/view-luxurious-hotel-interior-space_23-2150683469.jpg", alt: "Luxurious hotel interior" },
-        { type: "image", src: "http://img.b2bpic.net/free-photo/hotel-lobby_23-2149397559.jpg", alt: "Hotel lobby" },
-        { type: "image", src: "http://img.b2bpic.net/free-photo/3d-rendering-modern-steel-elevator-lift-lobby-business-hotel-with-luxury-design_105762-2042.jpg", alt: "Elevator lobby" },
-        { type: "text", text: "Five-Star Experience" }
+        { type: "image", src: "https://maps.app.goo.gl/w3ZB7pnvW2WrcTfG8", alt: "Google Maps Location 1" },
+        { type: "image", src: "https://maps.app.goo.gl/AmmxvBremfPBpCDu6", alt: "Google Maps Location 2" },
+        { type: "image", src: "https://maps.app.goo.gl/dQKNLNHCHKstYGw46", alt: "Google Maps Location 3" },
+        { type: "image", src: "https://maps.app.goo.gl/HTmR7hEkAbyLSyaw8", alt: "Google Maps Location 4" },
+        { type: "text", text: "Visit Our Locations" }
       ]}
     />
   </div>
