@@ -37,14 +37,14 @@ export default function LandingPage() {
         { name: "Reviews", id: "#testimonials" },
         { name: "Booking", id: "#contact" },
       ]}
-      brandName="Luxury Stay"
+      brandName="AO Hotel Venice Mestre"
     />
   </div>
 
   <div id="hero" data-section="hero">
       <HeroBillboard
       background={{ variant: "gradient-bars" }}
-      title="Book Your Perfect Stay Today"
+      title="AO Hotel Venice Mestre"
       description="Discover elegant rooms, exceptional service, and unbeatable rates. Browse real guest reviews and secure your reservation instantly."
       buttons={[{ text: "Check Availability Now", href: "#contact" }]}
       imageSrc="http://img.b2bpic.net/free-photo/3d-rendering-modern-luxury-hotel-office-reception-meeting-lounge_105762-2045.jpg"
@@ -70,7 +70,7 @@ export default function LandingPage() {
   <div id="about" data-section="about">
       <AboutMetric
       useInvertedBackground={false}
-      title="Why Choose Luxury Stay"
+      title="Why Choose AO Hotel Venice Mestre"
       metrics={[
         { icon: Building2, label: "Rooms Available", value: "150+" },
         { icon: Star, label: "Guest Rating", value: "4.9/5" },
@@ -179,7 +179,7 @@ export default function LandingPage() {
         { items: [{ label: "Rooms", href: "#" }, { label: "Dining", href: "#" }, { label: "Wellness", href: "#" }] },
         { items: [{ label: "Policy", href: "#" }, { label: "Terms", href: "#" }, { label: "Privacy", href: "#" }] }
       ]}
-      logoText="Luxury Stay"
+      logoText="AO Hotel Venice Mestre"
     />
   </div>
       </ReactLenis>
